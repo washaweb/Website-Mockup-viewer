@@ -5,6 +5,8 @@ Mockup Viewer is a simple and elegant tool used by website designers for present
 
 It is based on the excellent [Transition.js](https://github.com/icodebuster/transition.js) library created by Codrops.
 
+**You can watch a working demo [here](http://www.washaweb.com/mockup-viewer/)**
+
 Features
 --------
 * Next page transition.

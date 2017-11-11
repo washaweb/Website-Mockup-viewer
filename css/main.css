@@ -25,6 +25,11 @@ a:hover, a:focus, a:active {
     text-decoration: underline;
 }
 
+.github-link {
+    color: #FFF;
+    font-size: 18px;
+}
+
 .pt-wrapper {
     position: relative;
     width: 100%;
